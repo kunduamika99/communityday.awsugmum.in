@@ -694,7 +694,7 @@ div#myModal .modal-body {
 /* line 18, ../sass/shared/_home.scss */
 #page .section-1 .content {
   background: #232f3f;
-  background-image: url(../images/banner_bg.jpg) !important;
+  background-image: url(../images/intro-bg-2.png) !important;
   position: fixed;
   top: 0;
   left: 0;
@@ -1778,54 +1778,54 @@ div#myModal .modal-body {
   }
 }
 /* line 864, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Parthasarathi"] .img {
-  background-image: url(../images/vols/partha.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Sukanya"] .img {
+  background-image: url(../images/vols/sukanya.jpg);
 }
 /* line 867, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Swaminathan"] .img {
-  background-image: url(../images/vols/swami.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Utkarsh"] .img {
+  background-image: url(../images/vols/utkarsh.jpg);
 }
 /* line 873, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Ragunathan"] .img {
-  background-image: url(../images/vols/ragunathan.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Anamika"] .img {
+  background-image: url(../images/vols/anamika.jpg);
 }
 /* line 897, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Ilanchezhian"] .img {
-  background-image: url(../images/vols/ilan.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Preyash"] .img {
+  background-image: url(../images/vols/preyash.jpg);
 }
 /* line 885, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Hari"] .img {
-  background-image: url(../images/vols/hari.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Sneha"] .img {
+  background-image: url(../images/vols/sneha.jpg);
 }
 /* line 888, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Ganesh"] .img {
-  background-image: url(../images/vols/ganesh.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Aditya"] .img {
+  background-image: url(../images/vols/Aditya.jpeg);
 }
 /* line 891, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Muthukumar"] .img {
-  background-image: url(../images/vols/muthukumar.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Subhi"] .img {
+  background-image: url(../images/vols/subhipandey.jpg);
 }
 /* line 894, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Ramya"] .img {
-  background-image: url(../images/vols/ramya.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Gaurav"] .img {
+  background-image: url(../images/vols/gaurav.jpg);
 }
 /* line 897, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Sridevi"] .img {
-  background-image: url(../images/vols/sridevi.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Piyush"] .img {
+  background-image: url(../images/vols/piyush.jpeg);
 }
 /* line 912, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Mohan"] .img {
-  background-image: url(../images/vols/mohan.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Aniket"] .img {
+  background-image: url(../images/vols/Aniket.JPG);
 }
 /* line 912, ../sass/shared/_home.scss */
-#page .section-6 .volunteers .vl-i .person[data-fname="Suthan"] .img {
-  background-image: url(../images/vols/suthan.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Saurabh"] .img {
+  background-image: url(../images/vols/saurabh.jpeg);
 }
-#page .section-6 .volunteers .vl-i .person[data-fname="Mageshwaran"] .img {
-  background-image: url(../images/vols/magesh.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Anchal"] .img {
+  background-image: url(../images/vols/anchal.jpg);
 }
-#page .section-6 .volunteers .vl-i .person[data-fname="Praveen"] .img {
-  background-image: url(../images/vols/praveen.jpg);
+#page .section-6 .volunteers .vl-i .person[data-fname="Priyanka"] .img {
+  background-image: url(../images/vols/priyanka.jpg);
 }
 /* line 919, ../sass/shared/_home.scss */
 #page .section-7 {
@@ -2065,11 +2065,11 @@ i.icon.large {
 }
 
 #main-banner {
-  background-image: url(../images/banner_bg.jpg) !important;
+  background-image: url(../images/intro-bg-2.png) !important;
   background-repeat: repeat-y;
-  background-size: contain !important;
+  background-size: 100% !important;
   background-position: unset !important;
-  background-position: right 19% bottom 33% !important;
+  background-position: right 22% bottom 48% !important;
   height: 90%;
 }
 
